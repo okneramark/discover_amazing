@@ -122,9 +122,9 @@ max-width: 1060px;
 /* Intro styles start */
 .intro {
     height: 100vh;
-    background: url(../img/bg-first-block.jpg) no-repeat center;
+    background: url(../img/ff.jpg) no-repeat center;
     background-size: cover;
-    padding-top: 263px;
+    padding-top: 170px;
 }
 .intro_title {
     max-width: 619px;
@@ -199,7 +199,7 @@ max-width: 1060px;
     font-size: 35px;
     line-height: 42px;
     color: #102746;
-    padding: 93px 100px 88px 100px;
+    padding: 20px 0 20px 100px;
     position: absolute;
     top: 0;
     left: 0;
@@ -276,7 +276,7 @@ max-width: 1060px;
 .places_view-all:hover, .places_view-all:focus{
     opacity: .65;
 }
-.places_crads{
+.places_cards{
     display: grid;
     grid-template-columns: repeat(6,1fr);
     grid-gap: 10px;
